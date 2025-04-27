@@ -1,0 +1,6 @@
+customer_unique_id,product_id,product_category_name_english,order_status
+customer_1,product_101,fashion,delivered
+customer_2,product_102,beauty,delivered
+customer_1,product_103,home,delivered
+customer_3,product_104,books,canceled
+customer_4,product_105,electronics,delivered
